@@ -1,0 +1,5 @@
+fun setup(): int {
+    IO.printS("Hello from CI!");
+    IO.nl();
+    return 0;
+}

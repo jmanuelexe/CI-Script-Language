@@ -1,0 +1,27 @@
+# Local build products
+.build/
+bin/
+ownership_test/*.obj
+ownership_test/*.exe
+ownership_test/*.pdb
+ownership_test/x64/
+ownership_test/ownershi.*/
+script/x64/
+script/script/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.ipch/
+*.iobj
+*.ipdb
+*.recipe
+*.tlog/
+
+# Development-only benchmark build, including the vendored Lua source
+benchmarks/build/
+benchmarks/luac.out
+
+# Generated source release output
+dist/
