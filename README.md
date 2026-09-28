@@ -3,8 +3,7 @@
 CI Ownership is an experimental C-like scripting language and virtual machine
 with deterministic object ownership. This source package contains the
 compiler, VM, standalone command-line runner, documentation, and a small CI
-example. It does not include benchmark code, Lua, editor integrations, or
-generated binaries.
+example. 
 
 ## Build on Windows
 
